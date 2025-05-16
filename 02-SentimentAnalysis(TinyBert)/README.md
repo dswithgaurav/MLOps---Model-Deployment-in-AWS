@@ -6,6 +6,11 @@
 * **TinyBERT**: Compressed version of BERT, faster and lighter with slightly lower accuracy. Ideal for edge devices and real-time apps.
 
 
+### Code Section
+1. Processing the Data
+2. Tokenizer
+3. Building Model
+4. Push to S3
 
 
 ### Good Reads
